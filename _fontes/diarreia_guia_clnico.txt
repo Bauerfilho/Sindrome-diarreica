@@ -1,0 +1,1655 @@
+===== PAGINA 1 =====
+Transcrição de Diarreia: guia clínico
+Criado em April 16, 2026 por Summary AI
+00:32
+Olá, meus amigos!
+00:33
+Sejam muito bem-vindos, mais uma vez, à nossa vídeo-aula do médico.
+00:38
+Agora, especificamente, eu vou discutir com vocês o tema Diarreia, Clínica Médica, volume 2.
+00:46
+Agora, vamos prestar atenção em algumas coisas.
+00:49
+Quando a gente discute diarreia, o tema é muito amplo, né?
+00:53
+Você é capaz de, aí, se eu perguntar, me dá aí umas 20 causas de diarreia.
+00:57
+Você vai falar isso em menos de um minuto.
+00:59
+Você me dá 20 causas de diarreia.
+01:02
+E aí é que tá o problema.
+01:04
+Se eu pego uma questão no qual o paciente tem diarreia e o envolvimento do meu raciocínio, ele é
+sindrômico, como é que eu vou pensar se eu tenho causa pra caramba pra pensar?
+01:18
+Então, esse é o nosso objetivo aqui.
+01:20
+É trilhar um caminho que vai te levar ao diagnóstico etiológico e, se não te levar ao diagnóstico etiológico,
+vai te deixar na porta dele pra você solicitar o exame mais provável pra situações diferenciais.
+01:33
+E, aqui na diarreia, é um quebra-cabeça muito importante.
+01:38
+E eu vou até te mostrar como é que isso aqui caiu em prova de residência esse ano com exemplos que
+lembram até os nossos casos.
+01:45
+Então, eu vou começar aqui com vocês pelo caso clínico número 1.
+01:49
+Olha só.
+01:51
+Chega ao seu consultório uma senhora contando a seguinte história.
+
+===== PAGINA 2 =====
+01:55
+Meu filho, que tem síndrome de Down, está com diarreia.
+02:00
+Tudo começou há alguns meses quando eu parei de lhe dar o peito.
+02:03
+Desde então, ele parou de crescer e começou a perder peso.
+02:07
+A diarreia é volumosa e com um odor muito ruim.
+02:12
+Comecei a investigar essa doença e descobri que ele estava também com anemia.
+02:15
+Mas tudo piorou na semana passada, quando ele começou a apresentar umas lesões no corpo.
+02:21
+Levei-o a um dermatologista que disse se tratar de dermatite herpetiforme.
+02:30
+Muito bem.
+02:31
+Então, qual o principal diagnóstico para esse caso?
+02:34
+Então, eu gosto também de gerar um pouquinho de pressão sobre vocês.
+02:38
+Que é o seguinte.
+02:40
+Se você estudou esse tema alguma vez, o diagnóstico está assim...
+02:45
+Faça o diagnóstico.
+02:46
+Está na cara do gol.
+02:47
+Pode chutar que vai ser gol.
+02:48
+Porque está um quadro clínico muito característico com uma associação muito específica para essa doença.
+02:55
+E isso é uma forma também de a gente acertar a questão de prova.
+02:58
+Marcelo, tem a palavra-chave, já marquei.
+03:00
+Beleza. Vida que segue.
+03:02
+Agora, Marcelo, não.
+
+===== PAGINA 3 =====
+03:04
+Eu ainda não consegui captar o que está acontecendo.
+03:07
+Eu tenho várias hipóteses aqui na minha cabeça, mas eu não sei qual escolher.
+03:11
+Ah! Então, vamos lá.
+03:13
+Vamos começar a pensar na diarreia em si e depois a gente volta para esse caso.
+03:18
+Então, como é que eu vou montar um pensamento para poder destrinchar esse caso?
+03:23
+Primeira coisa é, quando você estiver frente a uma situação que envolva diarreia, você deve fazer o
+seguinte, classificar essa diarreia.
+03:32
+Existem diversas formas de classificação da diarreia.
+03:35
+A sua pochila te entrega, por exemplo, seis formas de você classificar a diarreia.
+03:39
+Eu, em aula, eu trago três formas, três formas, porque todas as outras praticamente derivam dessas três
+formas.
+03:47
+E acaba que eu vou discutir uma também forma classificatória que depende da inicial que eu vou falar com
+vocês aqui.
+03:53
+Então, essas três, bom tamanho.
+03:56
+O primeiro ponto que você vai ter que avaliar sempre nas questões, no seu dia a dia, é a duração da sua
+diarreia.
+04:02
+Essa diarreia é uma diarreia aguda ou é uma diarreia crônica?
+04:07
+Aqui, eu tenho divergência na literatura.
+04:11
+Tem livro que fala que a diarreia aguda é menos de duas semanas, outros menos de três semanas, outros
+menos de quatro semanas.
+04:17
+Burbagem isso.
+04:19
+Vou marcar o seguinte.
+04:20
+Diarreia aguda, aquela que tem menos de três a quatro semanas, diarreia crônica, aquela que tem mais de
+três ou quatro semanas, como te falei, ainda pode ter dois ali.
+
+===== PAGINA 4 =====
+04:28
+Você vai guardar o seguinte.
+04:30
+A diarreia aguda em prova, geralmente, quando é uma abordagem aguda, ele fala que o paciente tem
+alguns dias de evolução.
+04:40
+Tem três dias, tem dois dias.
+04:43
+É isso que acontece.
+04:44
+E, normalmente, aqui, ele vai te entregar...
+04:47
+Ele não vai ficar no meio do caminho.
+04:50
+Ele vai te entregar mais de um mês.
+04:52
+Você vai ver isso aí.
+04:54
+Tem quarenta dias, tem cinco semanas.
+04:57
+Então, apesar de ter essa classificação, que é uma classificação divergente, a questão não vai te jogar no
+meio do caminho.
+05:05
+Ela não vai fazer isso.
+05:06
+E esse é o primeiro ponto que você deve observar.
+05:10
+Se é aguda ou se é crônica.
+05:13
+O segundo ponto de classificação é a topografia.
+05:17
+Onde está o problema para o indivíduo fazer a diarreia?
+05:21
+É um problema ligado ao delgado, que eu chamo de diarreia alta, ou é um problema ligado ao cólon, que eu
+chamo de diarreia baixa.
+05:30
+Então, só cuidado aqui que alto e baixo para a diarreia, gente, não é igual da hemorragia digestiva, não.
+05:37
+Alto e baixo para a diarreia, alto é delgado e baixo é cólon.
+05:41
+Então, qual é a ideia?
+
+===== PAGINA 5 =====
+05:43
+Qual é a função de cada um deles?
+05:46
+Qual que é a grande função do delgado e qual que é a grande função do cólon?
+05:49
+Para eu entender como é que a diarreia vai se comportar.
+05:52
+Então, o que eu tenho?
+05:53
+O delgado é a grande parte absorvedora que nós temos.
+05:57
+A função dele é absorver, absorver, absorver, absorver, absorver, absorver.
+06:02
+Se o paciente tiver uma lesão de delgado, ele não vai absorver direito.
+06:07
+E aí, o que vai acontecer?
+06:09
+A diarreia dele tem alto volume.
+06:12
+É isso que acaba acontecendo.
+06:15
+Já a função do cólon é uma função de continência.
+06:19
+Segurar o conteúdo fecal, inicialmente ele é intestinal, ele prepara as fezes para mandar embora.
+06:27
+Então, a função é o quê?
+06:28
+Continência. Então, se eu tiver uma diarreia baixa, aquele episódio diarreico, ele vai ter pouco volume.
+06:36
+Porque o que tinha para ser absorvido, já foi absorvido.
+06:40
+Agora, em contrapartida, o que vai acontecer?
+06:43
+Uma diarreia alta, ela foi com muito volume, foi.
+06:47
+Mas esse volume, quando chegou no cólon, quando chegou no reto, eu tinha o intestino grosso bom.
+06:54
+Então, ele consegue me dar continência.
+06:57
+Isso significa que ela tem baixa frequência diária.
+
+===== PAGINA 6 =====
+07:01
+Já a diarreia colônica, o volume dela, naquele momento, ele pode ser pequeno.
+07:06
+Mas a frequência é muito alta, eu não consigo segurar.
+07:15
+E aí, para aumentar a sensibilidade, eu já vi prova perguntando isso, um grande ponto de corte para você
+aumentar a certeza que é uma diarreia colônica, é de mais de dez episódios por dia.
+07:25
+Eu já vi isso em prova.
+07:26
+Mas isso é bobagem.
+07:28
+O fundamental é alta frequência.
+07:30
+Várias vezes ele foi no dia, que a gente não pode falar isso, mas ele vai poucas vezes.
+07:34
+Agora, só para você entender, as duas, quando você pega uma diarreia aguda, que o grande problema é a
+desidratação, as duas esfoliam o paciente, hein, pessoal?
+07:44
+Porque, apesar disso aqui ter baixa frequência, ela tem alto volume.
+07:48
+Essa aqui tem baixo volume, mas ela vai muitas vezes ao dia.
+07:51
+Então, no final das contas, diariamente, as duas podem entregar um volume muito grande.
+07:58
+As duas podem desidratar, tá?
+08:01
+Elas podem fazer isso.
+08:03
+Então, só cuidado com esse detalhe.
+08:05
+Outra coisa interessante é que aqui em cima eu não tenho tenesmo.
+08:10
+O que é tenesmo?
+08:11
+Tenesmo é urgência evacuatória.
+08:14
+Você tem uma vontade danada de ir no banheiro, você corre para o banheiro, chega no banheiro, tenta
+evacuar e não sai nada.
+08:20
+É o famoso alarme falso.
+
+===== PAGINA 7 =====
+08:21
+Isso é o tenesmo.
+08:23
+Tenesmo indica que o ré está inflamado.
+08:25
+Aqui não vai ter, porque o dia ré é alta.
+08:27
+Então, não tem tenesmo e pode ter restos alimentares, pela aceleração do trânsito e pouca absorção no
+delgado.
+08:36
+Agora, aqui embaixo, é de esperar que o paciente tenha tenesmo ou possa ter tenesmo, melhor falando, e
+não é esperado restos alimentares.
+08:46
+Então, com isso, você consegue começar a organizar aqui se o problema é de delgado e medicólogo.
+08:52
+E isso, na prática das suas questões, isso é muito importante.
+08:56
+Porque eu tenho etiologias que são restritas ao delgado.
+09:01
+Etiologias restritas ao cólon.
+09:03
+Então, por exemplo, a doença celíaca é uma doença desabsortiva.
+09:06
+É de delgado.
+09:08
+Então, não tem isso aqui, aqui embaixo.
+09:10
+Ela é alta.
+09:11
+Já a retocolite ulcerativa, a retocolite é do reto e cólon.
+09:15
+Ela te entrega isso aqui.
+09:17
+Ela não te entrega isso aqui.
+09:19
+O paciente com uma colite bacteriana, ele tem esse quadro aqui.
+09:24
+Então, é só para entender que eu preciso disso aqui, porque está me dando um caminho já também para a
+etiologia.
+09:32
+E aí, eu comecei de novo na duração e vim para cá.
+
+===== PAGINA 8 =====
+09:36
+E o terceiro ponto é o caráter inflamatório dela.
+09:40
+Se o mecanismo gerado por essa diarreia está machucando a mucosa intestinal, está invadindo o epitério,
+está invadindo a parede intestinal, porque agora eu ganho uma outra característica.
+09:54
+Quando eu tenho uma diarreia, além de ela te esfoliar líquido, nutriente, que ela pode fazer isso, e isso é
+uma coisa importante, um mecanismo que a germe também pode estar machucando o intestino.
+10:12
+E aí, você pode, às vezes, ao invés de morrer desidratado, você morre porque seu intestino perfurou.
+10:17
+Você morre de sepse, porque eu tinha um sofrimento maciço do meu intestino.
+10:22
+Então, por exemplo, para você entender melhor, o síndrome do intestino irritável é um transtorno funcional,
+acelera o ritmo.
+10:31
+Eu não machuquei o epitério.
+10:33
+Se você toma um manitol para fazer um preparo de colonoscopia, você vai ter uma diarreia doida, mas você
+não tem o epitério machucado.
+10:44
+Agora, se você tem uma retocolite, além de ter diarreia, você tem a parede intestinal sendo machucada.
+10:49
+Então, eu potencializo a gravidade da diarreia.
+10:52
+E a grande característica clínica dessas diarreias mais invasivas, mais virulentas, é isso aqui.
+11:00
+É a presença de sangue, muco e opus, que a gente chama, eu estou aqui um pouquinho na frente, vou
+chegar um pouquinho para o lado, de desinteria.
+11:09
+O que é desinteria, Marcelo?
+11:11
+É a diarreia que tem sangue, muco e opus.
+11:13
+Agora, desses aqui, eu vou ser sincero com vocês.
+11:17
+O pior deles, para eu falar que é uma desinteria, é o muco.
+11:22
+Muco sozinho, eu não vou levar em consideração.
+11:25
+Sozinho, eu levo sangue em consideração, opus, mas muco sozinho não.
+11:29
+Porque o muco sozinho pode aparecer em diarreias funcionais também.
+
+===== PAGINA 9 =====
+11:33
+Tudo bem?
+11:34
+E aí também é um outro indicativo para me ajudar a fazer um diagnóstico diferencial.
+11:38
+Além de perceber a gravidade, me ajuda no diagnóstico diferencial.
+11:42
+Por exemplo, eu pego a doença de Crohn, que é uma doença intestinal inflamatória, que ataca o delgado.
+11:49
+E pego a doença celíaca, que é uma doença de delgado.
+11:52
+A doença celíaca não é a inflamatória invasiva, como é a doença de Crohn.
+11:58
+Então, às vezes, numa prova, eu conseguiria afastar as duas por essas características aqui.
+12:02
+Tudo bem?
+12:03
+Então, só para chamar a atenção.
+12:05
+Então, aqui você organizou, começou a pegar e separar as peças do quebra-cabeça para poder agrupá-las.
+12:13
+Então, você já entendeu o que é que encaixa aqui, o que encaixa aqui.
+12:16
+Beleza. Então, agora vamos seguir e dar mais um passo para frente.
+12:21
+Eu te falei que o primeiro ponto a você observar é a duração.
+12:26
+É o grande caminho.
+12:27
+A bifurcação inicial está na duração.
+12:30
+Então, eu vou começar com vocês aqui com a diarreia aguda.
+12:35
+Diarreia aguda, como é que eu devo pensar nela?
+12:39
+Aí é que está.
+12:40
+Quando eu penso na etiologia da diarreia aguda, claro que ela tem diversas causas.
+12:45
+Claro. Inclusive, a diarreia crônica, antes de ser crônica, quando chega na emergência, por exemplo, ela
+tem pouco tempo de evolução e eu classifico inicialmente como aguda.
+
+===== PAGINA 10 =====
+12:53
+Beleza. Beleza.
+12:55
+Agora, pensando em diarreia aguda, que é aquela que vai durar pouco tempo e tal, eu tenho duas grandes
+causas.
+13:02
+Na verdade, é uma causa, dividida com dois agentes.
+13:05
+Então, a grande causa de uma diarreia aguda é a causa infecciosa.
+13:08
+É isso aqui.
+13:10
+Principalmente, a causa viral.
+13:14
+Então, quando você pega um paciente que chega com náusea, vômito, diarreia, que começou há um dia, e
+a gente chama isso genericamente de quê?
+13:23
+Uma gastroenterite aguda, vírus ou bactéria.
+13:27
+Se você tiver que fazer uma aposta, vai apostar em vírus.
+13:31
+Tudo bem?
+13:33
+E aí vai.
+13:33
+Então, qual deve ser minha conduta frente a uma situação como essa?
+13:38
+O que eu devo pensar?
+13:39
+Olha só, pessoal.
+13:41
+Deixa eu te explicar uma coisa.
+13:42
+Vai ter um pouco de divergência agora do que eu vou falar e o que está no seu material.
+13:47
+No seu material, na apostila, você tem todo o padrão americano.
+13:52
+Você vai ver no Harrison, vai ver no Up to Date, vai ver na Sociedade Americana de Gastroenterologia.
+14:00
+Toda diretriz americana certíssima, sem problema algum.
+
+===== PAGINA 11 =====
+14:04
+Você vai ver que responde questão de prova também.
+14:07
+Só que eu vou utilizar a conduta do Ministério da Saúde.
+14:12
+Ela não é, do todo, diferente da conduta americana.
+14:18
+Não. A conduta americana pontua mais algumas coisas, o Ministério da Saúde pontua outras.
+14:24
+E eu fico preocupado com a de prova de preventiva.
+14:28
+Preventiva. Porque o sistema que o americano faz é um sistema que ele pensa assim, ele escreve isso.
+14:36
+É abordagem da diarreia aguda em locais que têm condições e recursos para tratar.
+14:42
+Mas você tem uma abordagem da diarreia aguda em locais de pouco recurso.
+14:48
+Que aí é que entra, na verdade, o que o Ministério da Saúde preconiza.
+14:52
+Então, tudo acaba se misturando no cômpito final.
+14:55
+E você vai ganhar mais informações, então, de eu falar pelo Ministério da Saúde.
+15:00
+Então, o que é falado?
+15:02
+Bom, independente de americano ou nacional, qualquer pessoa com diarreia aguda, existe uma
+preocupação inicial com a hidratação.
+15:08
+Porque o que mata um paciente com diarreia aguda é a desidratação.
+15:11
+Então, tem que avaliar a hidratação.
+15:13
+Beleza. Olha que interessante, pontuando o que o Ministério da Saúde fala.
+15:18
+Se o paciente estiver bem, está bem, está hidratado, bebe água, não tem sinal de toxemia, está bem, está
+bem.
+15:24
+Então, ele vai fazer um esquema de reidratação em casa.
+15:28
+Pronto. Reidratação oral em casa.
+15:31
+Acabou. Beleza.
+
+===== PAGINA 12 =====
+15:34
+Se o paciente estiver desidratado, ele vai começar a hidratação dele no serviço de saúde.
+15:43
+Então, isso aqui é muito bom para preventiva, porque quando você pega, tem várias questões que
+envolvem a atenção básica, que são condutas médicas.
+15:53
+E não só conceitos de SUS ou organização da atenção básica, mas problemas clínicos.
+15:59
+E o problema clínico interessante é a diarreia.
+16:02
+Então, se eu estou na estratégia de saúde da família, por exemplo, que tem que atender pequenas
+emergências e urgências, diarreia entraria como uma consulta não eletiva, né?
+16:12
+Eu já posso fazer isso no meu posto de saúde, no meu serviço de saúde.
+16:16
+Agora, se eu pegar um paciente que não tem a capacidade de beber água, porque ele é um idoso,
+demenciado, ele não está conseguindo engolir porque está vomitando, ou ele tem uma diminuição do nível
+de consciência, pulso fraco, ausente.
+16:35
+O que você vai começar a fazer?
+16:37
+Você vai começar a hidratação venosa no serviço de saúde.
+16:42
+Você começa a fazer isso aí.
+16:43
+E aí é que está um grande detalhe.
+16:46
+Você não é obrigado a internar o paciente.
+16:49
+Ele fala pelo menos seis horas.
+16:52
+Pelo menos seis horas de observação no serviço de saúde com adaptação venosa.
+16:56
+Ficou um aço, melhorou para caramba, estabilizou, pode ir para casa.
+17:01
+Aí isso aqui muda um pouquinho para o americano, porque o americano não tem muito disso.
+17:05
+Se o paciente se mostrar em situação que ele precisa de alguma coisa venosa, ele vai ficar internado, tá?
+17:10
+E aí ele acaba ganhando vários exames complementares.
+17:12
+Mas aqui, em princípio, pelo Ministério de Saúde, você vai fazer isso aqui.
+
+===== PAGINA 13 =====
+17:17
+Ok. Agora, outra coisa que surge, pessoal.
+17:22
+Ondanzetrona, o famoso vonal.
+17:25
+O vonal, ele entra como medicamento de escolha se o paciente se apresentar com vômitos.
+17:32
+Por que?
+17:32
+Não é um gastroenterite?
+17:34
+Você tem náusea e vômito.
+17:35
+Então, aí você entra como o melhor indicado.
+17:40
+Escolha um Ondanzetrona.
+17:42
+Agora, você vai falar assim, ah, Marcelo, você tá...
+17:43
+Eu tô...
+17:44
+Hoje eu vi isso aí, na verdade, ri.
+17:46
+Porque não tem vonal onde eu trabalho.
+17:48
+Pô, tá de sacanagem?
+17:49
+Eu falo assim, eu...
+17:50
+Eu entendo isso.
+17:51
+Eu entendo.
+17:52
+Eu já fui, inclusive, médico de família também.
+17:54
+A grande questão, pessoal, é a seguinte.
+17:59
+Na prova eu trabalho com situação ideal, tá?
+18:03
+Ideal porque é o que tá na literatura.
+
+===== PAGINA 14 =====
+18:05
+Eu sei que no dia a dia você, de repente, vai fazer plazil.
+18:08
+Beleza. Faça plazil.
+18:10
+Mas na prova eu tenho que dar o X na escolha.
+18:12
+Tá? Então, só pra tomar cuidado em relação a esse detalhezinho.
+18:16
+Beleza? Seguindo.
+18:18
+Que mais?
+18:20
+Bom, como eu tenho a possibilidade de ter causa bacteriana, eu tenho que pensar também em antibiótico.
+18:26
+O Ministério da Saúde, ele fala a possibilidade de cipro.
+18:29
+Pode ser feito oral, né?
+18:30
+E até seftrexona.
+18:32
+O esquema americano até cita também a azitromicina.
+18:40
+Eles colocam até a azitromicina como possibilidade.
+18:43
+Mas a gente tá aqui, ó.
+18:45
+Tá bom?
+18:46
+E aí, quando a gente vai fazer o antibiótico?
+18:49
+Quando o paciente tiver desenteria, é indiscutível, porque a característica desentérica é a grande
+característica que consegue, de certa forma, separar vírus de bactéria.
+18:59
+A bactéria pode ter desenteria ou não.
+19:02
+Vírus não tem desenteria.
+19:03
+Então, teve desenteria?
+19:05
+Isso aqui, ó, acabou.
+
+===== PAGINA 15 =====
+19:07
+Pra mim, até que se prove ao contrário, é bactéria.
+19:10
+Tem muita queda do estado geral, tá toxemiado, tá com febre.
+19:15
+Você vê que o paciente tá murchinho?
+19:16
+Aí, ele também vai fazer antibiótico.
+19:20
+O esquema americano é diferente porque ele fala...
+19:22
+É... Idade, tem que ser acima de 70 anos, se tem febre alta, se tá muito desidratado, se tem desenteria.
+19:30
+Ele não coloca genericamente queda do estado geral.
+19:33
+Ele vai pontuando o que seria pra você fazer.
+19:37
+Tá? Mas só pra chamar atenção.
+19:39
+Tem isso aqui?
+19:40
+Tem. Entra também com antibiótico.
+19:43
+Beleza. Outra coisa interessante.
+19:46
+Não vai utilizar antidiarreico, tá, pessoal?
+19:49
+Por exemplo, loperamida e mosec.
+19:52
+Não é a hora de utilizar antidiarreico.
+19:54
+Porque a ideia é...
+19:56
+Esse paciente, ele tem uma diarreia que eu parto da premissa que seja uma diarreia infecciosa.
+20:01
+O processo evacuatório, além de espoliar, né, nutrientes e água, manda embora também a gente
+infeccioso.
+20:10
+Manda embora a bactéria pra caramba.
+20:12
+Então, no momento que você segura o fluxo intestinal, você diminui a limpeza bacteriana, por exemplo.
+
+===== PAGINA 16 =====
+20:20
+E você aumenta a carga bacteriana, o hipercrescimento bacteriano, podendo potencializar todo o processo
+inflamatório.
+20:28
+Então, você não vai utilizar antidiarreico, tá?
+20:32
+O Ministério da Saúde não fala nada em termos de probiótico, pré-biótico, pós-biótico.
+20:37
+Não fala nada.
+20:39
+A literatura americana aqui é categórica.
+20:41
+Para adulto, não vamos fazer nenhum probiótico porque não tem nenhum benefício na situação de uma
+diarreia aguda, tá?
+20:51
+Ainda mais de cunho e infeccioso.
+20:54
+Beleza. Pegamos isso aqui.
+20:57
+Então, essa é a nossa receita de bolo.
+20:58
+E, mais uma vez, eu chamo muita atenção para as condutas na atenção básica.
+21:04
+Por isso que eu trouxe o Ministério da Saúde aqui, tá bom?
+21:08
+Ok. Agora, dentro da diarreia aguda, eu tenho uma causa que eu quero falar especificamente contigo, que é
+a diarreia pela colite pseudomembranosa, pelo Clostridioides difficile ou, antigamente, era Clostridio difficile.
+21:23
+Então, o que está acontecendo aqui agora?
+21:26
+Bom, ele vai fazer uma colite.
+21:29
+O nome já está sendo falado.
+21:31
+Então, eu não vou mais, daqui a pouco, te mostrar o quadro clínico, falar que é uma diarreia de alta
+frequência, que é uma diarreia que tem, naquele episódio, pouco volume, que o paciente pode ter tenesmo,
+que pode ter característica desentérica porque é uma bactéria.
+21:43
+Isso aí já está implícito no nome.
+21:47
+Pronto. Agora, por que chama pseudomembranosa?
+21:50
+Porque esse intestino inflamado começa a liberar uma secreção.
+
+===== PAGINA 17 =====
+21:55
+Essa secreção recobre o enterócito e, no histopatológico, essa secreção parece uma membrana.
+22:03
+Daí o nome pseudomembranosa.
+22:06
+Então, tem uma secreção ali por cima e o histopatológico te mostra que é uma membrana, que não é.
+22:11
+E da onde que é?
+22:12
+Do colo inflamado.
+22:14
+Então, você entende o nome.
+22:15
+Lembra que eu gosto de te provocar com as questões de nome porque o nome já te ajuda a entender qual é
+o significado, muitas vezes, a clínica do paciente.
+22:26
+E aí, segue comigo.
+22:28
+Por que alguém vai desenvolver isso aqui?
+22:30
+O grande fator de risco é o uso prévio de antibiótico.
+22:36
+Principalmente esses três que eu estou te mostrando aqui.
+22:40
+clindamicina, cefalosporina e quinolona.
+22:42
+Ou seja, cefalosporina é muito utilizado em ambiente hospitalar.
+22:46
+Então, o paciente usa.
+22:48
+E aí, em torno de três...
+22:50
+Deixa eu melhorar isso aqui.
+22:52
+De quatro a nove dias após o uso, em média, ele começa com um quadro de diarreia.
+23:00
+Então, não é imediato, não, tá, gente?
+23:02
+Eu não tomei antibiótico hoje e amanhã estou com diarreia, não.
+
+===== PAGINA 18 =====
+23:05
+Se eu tomar um antibiótico hoje e amanhã estiver com diarreia, isso pode ser um efeito colateral direto da
+própria substância.
+23:11
+Agora, se eu tenho uma latência e depois eu começo com a diarreia, aí sim eu posso falar da colite.
+23:18
+Por quê?
+23:18
+O que acontece?
+23:20
+O que acontece é o seguinte.
+23:21
+Você já pode ser um portador do clostridioides difícil, ele vive no seu intestino, ou então você pode ganhar
+ele em um ambiente hospitalar.
+23:31
+Como é que você ganha ele em um ambiente hospitalar?
+23:33
+Mão suja, mão sem lavar.
+23:35
+Então eles te entregam você colonizado no hospital ou já entra, por exemplo, colonizado.
+23:41
+Beleza. Aí você toma um antibiótico, então ele vai matar muita microbiota intestinal e vai promover um
+espaço para crescimento do clostridioides.
+23:50
+E aí ele, em excesso, ele vai liberar uma toxina, que é toxina A e B, e a toxina vai começar a machucar o
+seu intestino.
+24:01
+E essa questão é tão interessante que o grande exame para você fazer o diagnóstico do clostridioides é a
+presença de toxina nas fezes.
+24:10
+Então tem a toxina A ou então tem a toxina B.
+24:14
+Posso fazer cultura?
+24:15
+Pode, mas demora a crescer para caramba.
+24:18
+Não é prático.
+24:19
+Técnica de PCR também pode ser feita.
+24:23
+E tem o NAAT.
+24:24
+NAAT, entre aspas, é como se fosse um PCR.
+
+===== PAGINA 19 =====
+24:27
+Só que aqui, olha o que isso significa.
+24:30
+NAAT é técnica de amplificação de ácido nucleico.
+24:38
+Então a técnica de amplificação de ácido nucleico é uma forma também de você achar alguns agentes
+infecciosos, como o clostridioides difícil.
+24:47
+E até a colono, que em 50% dos casos é capaz de mostrar essa membrana inflamatória aqui.
+24:54
+Mas acaba não sendo o grande exame também.
+24:56
+Quem é o grande exame é a toxina nas fezes.
+25:00
+Então o que que eu tenho?
+25:02
+Tratamento. O que que eu vou fazer com esse paciente?
+25:05
+Uma vez que ele se apresente com a colite, e aí me mostra que eu tenho toxina que é a
+pseudomembranosa, eu vou suspender o antibiótico em uso.
+25:14
+Porque ele foi o culpado, né, pra ajudar o crescimento dessa bactéria.
+25:19
+Então eu vou suspender.
+25:20
+Normalmente já tá em fase final do tratamento infeccioso.
+25:25
+Então fica até mais tranquilo você conseguir manejar esse antibiótico até trocá-lo.
+25:30
+E aí o que que você vai fazer?
+25:32
+O tratamento tá indicado se o paciente tiver sintoma.
+25:35
+Então você vai tratar se ele tiver colite.
+25:37
+Tem colite?
+25:39
+Porque se ele não tiver nada, você não vai tratá-lo.
+25:41
+Porque lembra que esse paciente, ele pode ser um portador assintomático.
+
+===== PAGINA 20 =====
+25:43
+Então ele tem acolite?
+25:45
+Tem acolite.
+25:46
+Então o princípio agora é, quando eu fiz um antibiótico de amplo espectro com ação sistêmica, estragou
+meu intestino.
+25:53
+Então tem que fazer um efeito local, tirar essa questão sistêmica, e encurtar o espectro de ação dele.
+26:02
+Então quem se presta bem esse papel?
+26:05
+Vancomicina oral, você pode fazer pro paciente, ou afidaxomicina.
+26:12
+E dificilmente você vai ver no Brasil.
+26:14
+Beleza, quem você vai ver?
+26:16
+Vancomicina, que é glampolo e dá pro paciente tomar.
+26:18
+E aqui, gente, presta atenção agora.
+26:21
+Pode ser acolite leve, e pode ser até acolite grave, mas tem que ter colite.
+26:29
+Agora entenda o seguinte, a classificação de leve ou grave, é baseada em leucócitos e creatinina.
+26:37
+E ainda nessa classificação eu falo se é leve ou grave.
+26:39
+Mas independente de leve ou grave pelos leucócitos e creatinina, tem colite, é isso aqui.
+26:45
+Agora existe um outro termo pra colite, que é a colite fulminante.
+26:52
+Então só pra você entender, se tem a colite leve, tem a grave e tem a fulminante.
+26:56
+Ah, mas Marcelo, fulminante não é grave?
+26:58
+É! É!
+26:59
+Mas em termos de colite, pra falar que é fulminante tem que preencher isso aqui.
+27:04
+Não é assim falar, ah, é grave genericamente.
+
+===== PAGINA 21 =====
+27:07
+Não! Tem que ter aqui ó, hipotensão, ou choque, ou íneo paralítico que o intestino todo para, ou megacolon
+tóxico.
+27:16
+Aí agora eu chamo de colite fulminante.
+27:19
+Então esse termo ele é importante, porque ele muda o meu tratamento.
+27:24
+E aí o que que eu faço?
+27:25
+Eu mantenho vancomicina oral, mas entro com metronidazol intraveloso.
+27:31
+É isso que eu acabo fazendo.
+27:34
+Tudo bem?
+27:35
+Então essa é a ideia que a gente tem pra lidar com a colite pseudomembranosa.
+27:41
+Beleza? Maravilha, pessoal!
+27:45
+Pegamos aí!
+27:46
+Então, vem aqui comigo, deixa eu te mostrar uma coisa.
+27:49
+Olha só essa questão.
+27:51
+Lactente de um ano, previamente saudável, é internado com um quadro de infecção urinária e bacteremia.
+27:57
+Evolui bem com antibióticos de amplo espectro.
+28:00
+Mas no décimo dia de tratamento, olha só, tive a latência em média quatro, nove dias, mas não tem pelo
+menos no décimo dia.
+28:08
+Apresenta o que?
+28:09
+Cólica, distensão, múltiplas evacuações líquidas com muco e sangue.
+28:16
+Múltiplas! O que que ele quer dizer?
+28:17
+Que é baixa.
+28:18
+Quer dizer que é uma colite.
+
+===== PAGINA 22 =====
+28:20
+Se tem sangue, é uma colite desentérica.
+28:24
+Então isso aqui é bactéria.
+28:26
+Qual bactéria?
+28:27
+Aquela que o paciente usou antibiótico antes.
+28:31
+Então o que que ele tem?
+28:32
+Colite e pseudomembranosa.
+28:34
+Acabou. Então qual é a conduta diagnóstica e terapêutica?
+28:38
+Bom, isso não é alergia ao esquema antibiótico.
+28:40
+Eu falei que alergia, se tivesse algum problema diretamente, seria imediato, né?
+28:45
+Então corta.
+28:48
+Intolerância, lactose.
+28:50
+Gente, até poderia ser um diagnóstico diferencial, mas não com a história que foi contada na questão.
+28:56
+Né? E além disso, é uma diarreia alta em tolerância à lactose.
+29:00
+Não é uma diarreia baixa.
+29:01
+Então corto.
+29:03
+Não teria.
+29:04
+Não era pra esperar uma desenteria.
+29:06
+Corite e pseudomembranosa.
+29:07
+Ok. Pencitocina nas fezes.
+29:10
+Ok. Suspeção antibiótico em uso.
+
+===== PAGINA 23 =====
+29:12
+Ok. Perfeita a letra C.
+29:14
+Letra D, parasitose intestinal, parasol de fezes, albendazol e dose única.
+29:20
+Bom, parasitose intestinal sempre é um diagnóstico diferencial, importante.
+29:25
+É... Mas albendazol em dose única não é o tratamento empírico pra tratar um paciente com parasitose
+intestinal.
+29:32
+Eu até poderia tratar empiricamente com albendazol, mas daqui a pouco eu vou te falar, mas empiricamente
+seria por cinco dias.
+29:40
+Tá? Então também tá errada conceitualmente.
+29:42
+Não faz parte do quadro clínico aqui.
+29:44
+Tá muito clássico pra gente de colite e pseudomembranosa.
+29:47
+Beleza? Então, as questões de colite e pseudomembranosa, elas batem muito.
+29:51
+Eu tenho muito esse ritmo aqui.
+29:53
+Pelo uso do antibiótico prévio, acaba sendo uma questão até mais tranquila de você acertar.
+29:58
+Mas vamos voltar aqui.
+30:00
+Então, onde estamos agora?
+30:01
+Peraí só pra eu retornar na aula.
+30:03
+Eu tô fazendo uma abordagem sindrômica da diarreia, classificando, né?
+30:08
+A primeiro tempo, topografia e índice inflamatória.
+30:12
+E eu falei que o tempo de evolução é o primeiro caminho.
+30:14
+Então, eu entrei na diarreia aguda, que tem uma conduta bem estabelecida.
+30:19
+E agora a gente vai entrar num outro caminho, na outra via, que é a diarreia crônica.
+30:24
+E a diarreia crônica, é difícil ter uma conduta como a gente tem na diarreia aguda.
+
+===== PAGINA 24 =====
+30:30
+Porque a diarreia aguda, gente, eu tenho a preocupação com a desidratação e infecção.
+30:35
+Infecção como causa e desidratação como consequência.
+30:38
+Aqui não é bem assim que a banda toca.
+30:41
+Porque eu tenho diversos motivos com patogenias diferentes, com fisiopatologias diferentes, que
+caminham, assim, muito distante umas das outras.
+30:53
+Então, eu posso ter parasitose intestinal.
+30:56
+Aquele DI ali é doença intestinal inflamatória.
+30:59
+Eu posso ter doença celíaca, eu posso ter intestino irritável.
+31:02
+Eu tenho vários motivos.
+31:05
+Então, por exemplo, se eu tô pensando em doença celíaca, eu tenho que fazer exames que pensam em
+delgado.
+31:11
+Se eu tô pensando em retocolite, eu tô pensando em exames que chegam no colo.
+31:16
+Então, como é que eu faço isso?
+31:18
+A classificação é importante.
+31:20
+Porque a conduta, ela vai depender da suspeita.
+31:23
+Aqui eu não tenho aquela velocidade, velocidade, uma ferocidade chegar e diagnosticar e tratar porque eu
+morro desidratado.
+31:32
+Não. Aqui não é bem assim que a banda toca.
+31:35
+Então, tem que montar o quebra-cabeça e, a partir desse quebra-cabeça, pensar numa sorologia, pensar
+numa colono, numa endoscopia e assim por diante.
+31:46
+Tudo bem?
+31:47
+Então, aqui é fundamental, muito mais fundamental ainda, a classificação da diarreia.
+31:53
+Então, vamos lá.
+
+===== PAGINA 25 =====
+31:55
+Com isso em mente, voltemos ao caso 1.
+31:59
+Alguns meses.
+32:00
+Alguns meses.
+32:02
+Então, ele tem uma diarreia crônica.
+32:04
+É uma diarreia com muito volume.
+32:09
+Se é uma diarreia com muito volume, é uma diarreia alta.
+32:14
+É uma diarreia de delgado.
+32:17
+E diarreia crônica no delgado, gente, sendo que o delgado é quem absorve, pode saber, vai causar uma
+absorção.
+32:29
+Pode saber que isso vai acontecer.
+32:32
+E aí, como é que eu sei que está acontecendo a absorção?
+32:35
+A criança para de crescer, porque não está absorvendo.
+32:38
+Começa a perder peso.
+32:40
+Essa criança, inclusive, também tem anemia.
+32:42
+Não está absorvendo ferro, por exemplo.
+32:45
+E aí, tem uma outra coisa bastante interessante, que mostra pra gente também que essa criança tem má
+absorção.
+32:52
+Que é isso aqui, ó.
+32:53
+Odor muito ruim.
+32:56
+Aí você vai falar assim, mas Marcelo, eu não conheço fezes cheirosas, diarreia cheirosa.
+33:01
+Tudo bem.
+
+===== PAGINA 26 =====
+33:02
+Mas quando é citado o odor muito ruim, indica que o paciente está evacuando muita gordura.
+33:11
+Indica que ele tem estetorréia.
+33:13
+Então, o odor muito ruim, muitas vezes na prova, já é pra gente o sinônimo de má absorção.
+33:22
+E a absorção é um tipo de classificação de diarreia.
+33:26
+Mas eu falei que você não precisaria ficar preocupado com isso, porque você sabendo que é de delgado, já
+vai não absorver.
+33:31
+Se for crônica, dá má absorção.
+33:33
+E aí, o que que eu tenho?
+33:35
+Então, eu já tenho agora essa criança com uma diarreia desabsortiva.
+33:41
+Beleza? Beleza.
+33:44
+E essa diarreia desabsortiva traz pra gente a dermatite herpetiforme.
+33:49
+Então, eu tenho vários motivos de má absorção.
+33:52
+Ok. Agora, essa daqui, pra você marcar o X nela, ela te entregou dermatite herpetiforme.
+33:59
+Então, quem é que faz isso?
+34:01
+Quem é que causa má absorção com dermatite herpetiforme?
+34:05
+Aí, você vai marcar um conceito, um macete que eu vou te dar pra prova.
+34:09
+Que você vai sempre guardar no bolso e vai tirar e vai escrever no lado de questões como essa.
+34:16
+Sempre que tiver má absorção na sua prova, deficiência de nutrientes na sua prova, mesmo sem história de
+diarreia, você tem que pensar na doença celíaca.
+34:27
+Guarde sempre essa possibilidade no bolso, tá?
+34:31
+Então, eu comecei a ler, tem isso aqui, doença celíaca, até que se prova o contrário.
+34:35
+Guarde esse macete aí.
+
+===== PAGINA 27 =====
+34:37
+Agora, vamos observar se realmente esse caso é a doença celíaca.
+34:41
+Então, o que é a doença celíaca em si?
+34:44
+A doença celíaca, gente, é uma reação imunomediada à proteína do glúten.
+34:51
+O glúten, essa proteína, está contido no trigo, no centeio, na cevada.
+34:59
+Então, as coisas que contém trigo, é esperado que contém glúten.
+35:02
+Então, seu pão tem glúten, seu macarrão tem glúten, aquela lasanha que você comeu tem glúten, a cerveja
+que você tomou tem glúten.
+35:10
+Então, são vários alimentos, porque vários são dependentes do trigo, centeio e cevada.
+35:16
+Beleza. Então, o indivíduo vai lá e come o pãozinho dele.
+35:21
+Então, o que vai acontecer com quem come pãozinho?
+35:24
+Então, vamos pegar o exemplo.
+35:26
+Eu não tenho doença celíaca.
+35:29
+Então, eu posso comer glúten o quanto eu quiser, que eu não vou desenvolver doença celíaca.
+35:33
+Não sei se ele vai ter relação com outros problemas, mas isso aí não é o escopo da aula.
+35:39
+Em relação à doença celíaca, posso comer um quilo de glúten que eu não terei problema.
+35:43
+Por que eu não terei problema?
+35:45
+Porque o celíaco, só o celíaco, ele tem, vamos botar assim, a fechadura, vamos falar assim, um receptor
+que o glúten se liga.
+35:58
+E uma vez que esse receptor se liga ao glúten, ele desencadeia a cascata inflamatória ligada à
+autoimunidade.
+36:06
+Então, para ser celíaco, você precisa ter essa fechadura para a chave entrar, esse receptor.
+36:14
+E a gente já sabe quem são essas pessoas.
+
+===== PAGINA 28 =====
+36:16
+São aquelas pessoas que tem o HLA-DQ2 ou então o HLA-DQ8.
+36:22
+Então, as pessoas que têm esses HLA-DQ2, elas têm a fechadura para que o glúten abra.
+36:31
+Tem isso aí.
+36:32
+Então, todo mundo que é celíaco tem isso aqui, gente.
+36:35
+Todo mundo que é celíaco tem isso aqui.
+36:37
+Só que você vai levantar a mão e falar assim, mas Marcelo, outro dia eu estava em investigação.
+36:42
+Então, acharam que eu apresentava a doença celíaca, eu fiz esses HLA-DQ2, esses marcadores, eles
+vieram positivos, mas eu não sou celíaco.
+36:55
+Eu investiguei de cima e embaixo, eu não sou celíaco, embora tenha isso.
+36:59
+Ótimo. Então, você tem completamente razão de me falar o seguinte, quem tem isso aqui, olha o que eu
+vou te falar, quem tem isso, pode ou não ser celíaco.
+37:11
+Verdade. Agora, quem é celíaco tem isso aqui.
+37:16
+Vocês entenderam a diferença?
+37:18
+Quem é celíaco tem isso aqui.
+37:20
+Agora, se eu parto daqui, posso ou não ser celíaco.
+37:23
+Então, a gente também tem uma outra conclusão.
+37:26
+Não basta comer glúten, não basta ter a fechadura da porta.
+37:31
+Eu tenho que ter alguém que empurre a porta para o sistema imune entrar.
+37:34
+E quem é que abre a porta?
+37:37
+A gente não sabe.
+37:38
+Tem teorias.
+37:39
+Beleza. Uma teoria muito forte hoje é uma teoria de infecção viral prévia.
+
+===== PAGINA 29 =====
+37:42
+Beleza. Mas uma coisa é certa.
+37:45
+Não basta só comer glúten e ter esse HLA.
+37:48
+Tem que ter algo a mais, porque tem gente que tem isso e não faz doença celíaca.
+37:51
+O que é?
+37:52
+Interroga-se.
+37:53
+Será que é vírus?
+37:54
+Não sei.
+37:55
+Mas é um caminho.
+37:56
+Então, o que eu quero te mostrar aqui agora?
+37:59
+A partir daí, o indivíduo, então, começa a abrir a cascata da imunidade que começa a atacar o intestino
+dele.
+38:09
+E aí, nesse momento, ele pode ser até um paciente assintomático.
+38:13
+Se o ataque for um ataque pequeno, então ele pode ser assintomático.
+38:17
+Ou então, ele pode ter um ataque forte, com uma diarreia crônica, desnutrição, porque é contra o delgado.
+38:25
+Enquanto o delgado.
+38:27
+E aí, se for uma criança, que normalmente é criança, quando é diagnosticada, você observa isso.
+38:32
+Ela não cresce.
+38:33
+Ela tem várias deficiências nutricionais.
+38:36
+Agora, para chamar a atenção, e isso é importante para a prova, muitas vezes, principalmente quando o
+diagnóstico é feito no adulto, em você e na sua idade, você tem só uma deficiência nutricional.
+38:49
+Nem diarreia você apresenta na vida.
+
+===== PAGINA 30 =====
+38:51
+Nada. Vai ver, o seu problema é com cálcio.
+38:54
+Você não consegue absorver cálcio.
+38:57
+Aí, você tem uma hipocalcemia, e você jovem, uma moça jovem, tem uma osteopenia, porque tem cálcio
+baixo.
+39:04
+Aí, investiga tudo.
+39:06
+Por que que tem cálcio baixo?
+39:07
+Poxa, o motivo é doencelíaca.
+39:10
+Não absorve cálcio.
+39:11
+Às vezes, é uma anemia ferropriva.
+39:13
+Ah, ela sempre ferra um pouquinho baixo, não adianta tratar.
+39:16
+O médico falou que é assim mesmo.
+39:18
+Pode ser doencelíaca.
+39:19
+Então, por isso que eu falei, qualquer situação desabsortiva, ou situação de alguma deficiência nutricional,
+não importa qual, B12, falado, não importa.
+39:28
+Você tem que ter como possibilidade uma doença desabsortiva.
+39:32
+E uma grande doença desabsortiva é a doença celíaca.
+39:35
+Agora, tem também um trofismo da desregulação da imunidade no sistema nervoso central.
+39:43
+Então, tem um trofismo no sistema nervoso central, essa desregulação imune?
+39:47
+Tem. Então, o paciente, ele pode estar com ausência de manifestações intestinais e ter só manifestações
+neuropsiquiátricas.
+39:57
+Pode acontecer.
+39:58
+Cefaleia, às vezes faz depressão, psicose, miopatia, ataxia cerebelar.
+
+===== PAGINA 31 =====
+40:04
+Outro dia, eu participei de uma discussão de um paciente que tinha uma clínica clássica de lesão cerebelar.
+40:13
+A imagem do cerebelo normal, marcadores autoimunos contra o cerebelo normal, líquor normal.
+40:18
+A doença não era neurológica.
+40:21
+E aí, quando você examinava e ouvia a história do paciente, você caía aqui, ó, na doença celíaca.
+40:28
+Ele até tinha algumas desabsorções para estudar no diagnóstico e que ninguém tinha pensado.
+40:33
+Então, muito cuidado também com manifestações neurológicas que não tem um cunho neurológico de
+base.
+40:38
+A doença celíaca pode ser o culpado, tá?
+40:40
+Então, só tomar cuidado com isso aí.
+40:43
+Agora, gente, eu quero discutir duas associações com vocês.
+40:46
+Primeira associação é a dermatite herpetiforme.
+40:52
+Primeira coisa, dermatite herpetiforme é diferente de dermatite herpética.
+41:01
+Porque isso aqui, quem faz é o varicela ou herpes zóster.
+41:07
+Que aí é o paciente que tem varicela zóster ou herpes zóster guardado lá no gânglio sensitivo que vai e sai
+de lá, chega num dermátono, faz dor.
+41:18
+Depois tem a lesão que fica vermelha, mácula, pápula, púlstula, vesícula, né?
+41:22
+E faz uma crosta que pode deixar dor e que respeita um dermátono.
+41:28
+Isso é dermatite herpética, viral.
+41:35
+A herpetiforme lembra a herpética, mas não é herpética.
+41:39
+É em forma da herpética.
+41:42
+Mas é mediada por ataque devido à imunoglobulina.
+
+===== PAGINA 32 =====
+41:47
+IGA. Então, é um anticorpo A, porque imunoglobulina é a mesma coisa que anticorpo, é IGA que tá
+atacando a pele do paciente e fazendo uma lesão até semelhante.
+41:59
+Semelhante. Mas normalmente aqui pega o dorso inteiro, pega cotovelo e não dói.
+42:04
+Com herpética dói.
+42:06
+Mas só o padrão da lesão cutânea é semelhante.
+42:10
+E cuidado que nós temos um...
+42:12
+Como é que eu vou te falar?
+42:13
+Um paradoxo aqui.
+42:15
+Qual o paradoxo?
+42:17
+Isso aqui não foi IGA que causou?
+42:19
+Apagou, deixa eu voltar com ela aqui.
+42:21
+Mas isso aqui não é comum.
+42:24
+Não é comum da doença celíaca.
+42:26
+Mas é uma associação muito específica para doença celíaca.
+42:33
+Então, na prova, tem diarreia com dermatite herpetiforme.
+42:36
+Acabou. O que o paciente tem?
+42:38
+Doença celíaca.
+42:40
+Acabou. Agora, o que é comum?
+42:44
+Deficiência de IGA.
+42:46
+Então, a doença celíaca, ela tem um problema com IGA.
+42:50
+Ou falta IGA e quando tem IGA, o IGA ataca a pele.
+
+===== PAGINA 33 =====
+42:54
+Então, marca aí que doença celíaca tá com treta, tá na treta com IGA.
+42:59
+Guarda aí.
+43:00
+Então, o paciente pode ter deficiência de IGA.
+43:03
+E isso aqui, ó.
+43:05
+Adora aparecer em prova.
+43:08
+Adora aparecer em prova, tá?
+43:10
+E você vai entender por que agora.
+43:12
+Olha só.
+43:13
+Eu vou continuar com o meu slide aqui.
+43:15
+Por que você gosta de aparecer em prova?
+43:17
+Porque quando você faz um diagnóstico de suspeita de doença celíaca, né?
+43:23
+Quando você tem suspeita de doença celíaca, não é falando?
+43:25
+O exame inicial, o rastreamento, é feito com anticorpo, que é o anticorpo transglutaminase tessidual IGA.
+43:37
+IGA. Se ele vier positivo, você continua a investigação.
+43:46
+Agora, se ele vier negativo, eu posso ter dúvida.
+43:56
+Por que eu posso ter dúvida?
+43:58
+Ele é negativo porque realmente o paciente não tem doença celíaca?
+44:04
+Ou ele é negativo porque ele tem deficiência de IGA.
+44:09
+Porque se ele tiver deficiência de IGA, esse anticorpo, ele vai ser negativo.
+44:15
+Mesmo com o paciente apresentando a doença celíaca.
+
+===== PAGINA 34 =====
+44:19
+Isso é importância.
+44:21
+Daí a importância de entender a deficiência de IGA no paciente celíaco.
+44:27
+Porque o rastreamento, que é aquele exame que você tem que confiar no resultado negativo dele.
+44:32
+Eu não confio no resultado negativo.
+44:35
+Porque ele pode ter deficiência de IGA.
+44:37
+Então, na prática, e isso cai muito em prova, você quando vai fazer a sorologia inicial, você vai fazer
+anticorpo, antitransglutaminase tessidual IGA e também vai dosar IGA total.
+44:55
+Tem que fazer as duas coisas, tá?
+44:59
+Porque senão você não pode confiar no resultado negativo de IGA.
+45:03
+Beleza, pessoal?
+45:05
+Dose IGA total aí também.
+45:07
+Ok? Agora...
+45:09
+Ah, Marcelo, veio positivo.
+45:10
+Veio positivo.
+45:11
+Aí você vai continuar e vai fazer a biópsia.
+45:15
+A biópsia a gente vai fazer com a endoscopia digestiva alta.
+45:20
+Principalmente, quanto mais distal no duodenum você chegar, melhor.
+45:23
+E aí os resultados que eu vou ter é o seguinte, pessoal.
+45:27
+Vou só subir um pouquinho o slide.
+45:28
+Eu vou apresentar duas coisas na biópsia.
+45:33
+Eu tenho um infiltrado linfocitário e tenho atrofia de vilosidades, tá?
+
+===== PAGINA 35 =====
+45:46
+Isso aqui não é nada específico.
+45:51
+Isso aqui pode acontecer em qualquer situação, em qualquer situação de inflamação crônica no intestino.
+46:00
+Qualquer inflamação crônica no intestino pode apresentar isso aqui.
+46:04
+Qualquer uma.
+46:05
+Agora, isso é fundamental para o meu diagnóstico.
+46:08
+Eu preciso disso aqui.
+46:09
+E existe uma classificação da biópsia.
+46:12
+A classificação é a classificação MARCH.
+46:15
+Essa é a classificação.
+46:17
+Então, o que vai acontecer aqui?
+46:19
+Preste atenção.
+46:20
+MARCH 2 e MARCH 3 é aquela que você vai ter alguma alteração estrutural.
+46:28
+É aqui ligada, aqui ó, às vilosidades, às células.
+46:33
+Então, isso é uma classificação utilizada.
+46:35
+Eu vejo pouco aparecer em prova, mas se te cobrarem prova, o grande critério que você observa é isso.
+46:41
+Alguma alteração estrutural.
+46:44
+Então, só para ilustrar.
+46:45
+Aqui você vê as vilosidades e aqui, completamente atrofiado.
+46:50
+Esses pontinhos aqui são os infiltrados inflamatórios, tá?
+46:54
+Então, só para chamar atenção, MARCH 2, 3, se aparecer e ouvir falar, sei que tem alteração estrutural, ok?
+
+===== PAGINA 36 =====
+47:01
+E é fundamental, é o grande padrão, embora não seja específico, como falei anteriormente, para o seu
+diagnóstico de doença celíaca.
+47:09
+Agora, deixa eu te falar uma coisa.
+47:11
+Preste bem atenção aqui.
+47:14
+Quando você atender esse paciente e falar para ele que está numa investigação de doença celíaca, que
+pode ser a hipótese diagnóstica, a tendência dele vai ser pesquisar isso tudo, vai pesquisar no GPT, no
+Google, com a influencer, com o blogueiro, não importa.
+47:32
+E ele vai ter a tendência, por si só, excluir glúten da dieta.
+47:37
+Deixa eu te falar uma coisa.
+47:39
+Não deixe isso acontecer.
+47:41
+Porque se excluir glúten da dieta, acabou a doença.
+47:45
+Acabou o anticorpo, acabou a alteração histopatológica.
+47:49
+Você não vai fazer o diagnóstico.
+47:51
+Então, para o diagnóstico, o paciente tem que continuar comendo glúten.
+47:56
+Manda até se entupir de glúten.
+47:59
+E aí, então, diagnosticado, agora sim, você vai excluir glúten da dieta.
+48:07
+Então, muito cuidado, porque se o paciente parar de comer glúten sozinho, vai negativar todos os exames,
+hein, pessoal?
+48:14
+Maravilha? Pegamos.
+48:16
+Então, aqui comigo, por favor.
+48:19
+Olha só essa questão que interessante.
+48:22
+Homem de 57 anos de idade, com peso 74 quilos, passa em atendimento ambulatorial.
+48:29
+Ele tem hipotireoidismo e faz uso de 225 microgramas-dia de levotiroxina.
+
+===== PAGINA 37 =====
+48:34
+Me escreve que há oito meses tem episódios progressivos de dor abdominal.
+48:38
+A dor é encólica, difusa, intensidade leve e moderada, associada a episódios de evacuações amolecidas.
+48:45
+Nunca teve saída de sangue, moco ou pus.
+48:48
+Nega tenesmo.
+48:49
+Nega tenesmo para falar que a diarreia dele é o quê?
+48:54
+Alta. Aí segue.
+48:56
+Acredita que os episódios têm relação com o alimento, mas não percebe refeições ou alimentos claramente
+relacionados.
+49:01
+É tabagista, é triste social ocasional, nega-se bilus, pluridonal, epinasal, perdão, ou congestão nasal.
+49:09
+Os sinais vitais e o exame clínico são normais.
+49:12
+Traz consigo uma enterotromografia normal.
+49:15
+Laboratório. Ele tem uma anemia, microcítica, hipocrômica, leucose OK, com plaquetas elevadas.
+49:24
+Uma biópsia tessidual do trato gastrointestinal desse paciente, mas provavelmente identificaria a presença
+de quê?
+49:31
+Então vamos lá.
+49:32
+Eu tenho uma diarreia que você viu que é alta crônica.
+49:37
+Diarreia alta crônica vai acabar em desabsorção.
+49:41
+E ele realmente, ele tem desabsorção.
+49:44
+Ele tem desabsorção.
+49:45
+Sabe por quê?
+49:46
+Ele tem anemia microcítica, hipocrômica, com plaqueta alta.
+49:49
+Plaqueta é de 150 mil ou 450 mil.
+
+===== PAGINA 38 =====
+49:53
+Ele tem 490 mil.
+49:55
+E uma anemia microcítica, hipocrômica, com plaqueta elevada, isso aqui é igual a anemia ferropriva.
+50:09
+Esse paciente tem anemia ferropriva.
+50:11
+Só que a questão, ela te deu anemia ferropriva indiretamente.
+50:15
+E aí faz sentido.
+50:17
+Porque diarreia alta crônica desabsorve.
+50:20
+E aí já tá perdendo ferro.
+50:22
+Então qual é a acima absortiva que ele tem?
+50:26
+Sempre falei, guarde sempre no bolso doença celíaca.
+50:30
+Que é uma doença imunomediada, que pode vir com as irmãs, né?
+50:34
+Que ligam com a autoimunidade.
+50:36
+Olha só ele aqui, hipotireidismo.
+50:39
+Por que forneceu hipotireidismo?
+50:41
+Porque a principal causa é uma doença autoimune, que é Hashimoto.
+50:44
+Poxa, se ligaria tranquilamente a doença celíaca.
+50:47
+Muito celíaca aqui.
+50:51
+Então o que que acontece, gente?
+50:53
+Qual é o diagnóstico dele?
+50:55
+Doença celíaca.
+50:57
+Acabou. Então você repara que nessa questão, ao invés de te dar dermatite repetiforme, ele te dá anemia
+ferropriva num homem.
+
+===== PAGINA 39 =====
+51:04
+Então, granuloma, não é o que você vai ver na biópsia.
+51:06
+Nem H-pilore, nem infiltrado eosnofílico.
+51:09
+O que você vai ver é infiltrado linfocítico, linfocitário e atrofia de velocidades.
+51:17
+Muito boa essa questão, né?
+51:19
+Então, com isso, o que a gente faz?
+51:21
+A gente completou o nosso primeiro caso.
+51:25
+O nosso bloco número um foi essa abordagem sindrômica classificatória e o primeiro caso.
+51:31
+Então, eu te pedi o seguinte.
+51:32
+Vai lá, beba uma água, veja rapidinho as mensagens do WhatsApp e volte para o nosso segundo bloco
+para a gente discutir o segundo caso.

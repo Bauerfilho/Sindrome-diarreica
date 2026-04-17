@@ -1,0 +1,23 @@
+--- /Users/bauervieiracesarfilhovieira/Documents/New project/plataforma-diarreia-dii-parasitoses-premium/_integridade/original/arvore-inicial.txt	2026-04-16 19:36:32
++++ /Users/bauervieiracesarfilhovieira/Documents/New project/plataforma-diarreia-dii-parasitoses-premium/_integridade/original/arvore-final.txt	2026-04-16 20:03:20
+@@ -1,9 +1,8 @@
+-.
+ ./.DS_Store
+-./assets
++./assets/
+ ./assets/README.md
+ ./content-data.js
+-./ferramentas
++./ferramentas/
+ ./ferramentas/armadilhas.html
+ ./ferramentas/atualizacoes.html
+ ./ferramentas/comparacoes.html
+@@ -13,7 +12,7 @@
+ ./ferramentas/quiz.html
+ ./ferramentas/revisao-rapida.html
+ ./index.html
+-./paginas
++./paginas/
+ ./paginas/abordagem-uti.html
+ ./paginas/alteracao-consciencia.html
+ ./paginas/choque-circulatorio.html

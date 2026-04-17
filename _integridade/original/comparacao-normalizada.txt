@@ -1,0 +1,7 @@
+tree_equal_normalized=True
+file_stats_equal=True
+hashes_equal_normalized=True
+files_equal=True
+dirs_equal_raw=False
+bytes_equal=True
+note=raw tree diff reflects formatting/order differences; normalized file set and hashes match.
